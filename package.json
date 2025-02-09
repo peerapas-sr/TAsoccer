@@ -1,26 +1,20 @@
 {
   "name": "tasoccer-theproject",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "mongoose": "^8.9.5",
-    "next": "15.1.5",
-    "next-auth": "^4.24.11",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peerapas-sr/TAsoccer.git"
   },
-  "devDependencies": {
-    "@eslint/eslintrc": "^3",
-    "eslint": "^9",
-    "eslint-config-next": "15.1.5",
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1"
-  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peerapas-sr/TAsoccer/issues"
+  },
+  "homepage": "https://github.com/peerapas-sr/TAsoccer#readme",
+  "description": ""
 }
